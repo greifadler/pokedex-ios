@@ -2,7 +2,7 @@
 
 "Pokédex - iOS" is an innovative mobile app developed for iOS using SwiftUI and Swift. It provides users with a captivating experience to explore the world of Pokémon by connecting to the PokeAPI. The app offers an array of features, including browsing and discovering Pokémon, capturing your favorites, and more.## Screenshots
 
-##Screenshots
+## Screenshots
 
 <table>
   <tr>
