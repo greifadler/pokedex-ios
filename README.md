@@ -7,31 +7,30 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="demo_images/main.png" alt="Latest News" width="200"><br>
+      <img src="demo_images/main.png" alt="All Pokemon" width="200"><br>
       <em>All Pokemon Screen</em>
     </td>
-	<td align="center" width="33%">
-      <img src="demo_images/fav.png" alt="Liked Articles" width="200"><br>
+    <td align="center" width="33%">
+      <img src="demo_images/fav.png" alt="Liked Pokemon" width="200"><br>
       <em>Liked Pokemon Screen</em>
     </td>
     <td align="center" width="33%">
-      <img src="demo_images/search.png" alt="Category Browse" width="200"><br>
+      <img src="demo_images/search.png" alt="Search Pokemon" width="200"><br>
       <em>Search Pokemon Screen</em>
     </td>
   </tr>
   <tr>
-	
     <td align="center" width="33%">
-      <img src="demo_images/about.png" alt="Article Details" width="200"><br>
+      <img src="demo_images/about.png" alt="Pokemon Details - About" width="200"><br>
       <em>Pokemon Details Screen | About</em>
     </td>
     <td align="center" width="33%">
-      <img src="demo_images/stats.png" alt="Profile/Login/Logout" width="200"><br>
+      <img src="demo_images/stats.png" alt="Pokemon Details - Stats" width="200"><br>
       <em>Pokemon Details Screen | Stats</em>
     </td>
-	 <td align="center" width="33%">
-      <img src="demo_images/evol.png" alt="Category Browse" width="200"><br>
-      <em>Pokémon Details Screen | Evolution</em>
+    <td align="center" width="33%">
+      <img src="demo_images/evol.png" alt="Pokemon Details - Evolution" width="200"><br>
+      <em>Pokemon Details Screen | Evolution</em>
     </td>
   </tr>
 </table>
