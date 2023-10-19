@@ -1,0 +1,176 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%lld" : {
+
+    },
+    "About" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über"
+          }
+        }
+      }
+    },
+    "All Pokémon’s" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Pokémon's"
+          }
+        }
+      }
+    },
+    "Error while loading your Pokemon!" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim laden der Pokemon"
+          }
+        }
+      }
+    },
+    "Evolution" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entwicklungen"
+          }
+        }
+      }
+    },
+    "Favourites" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favouriten"
+          }
+        }
+      }
+    },
+    "Like Pokemon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokemon gefällt mir"
+          }
+        }
+      }
+    },
+    "No liked Pokémons found" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine favorisierten Pokémons gefunden"
+          }
+        }
+      }
+    },
+    "No Pokémons found" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Pokémons gefunden"
+          }
+        }
+      }
+    },
+    "Open Pokemon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokemon ansehen"
+          }
+        }
+      }
+    },
+    "Pokémon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokémon"
+          }
+        }
+      }
+    },
+    "Reload" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu laden"
+          }
+        }
+      }
+    },
+    "Search for Pokémon.." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Such nach einem Pokémon..."
+          }
+        }
+      }
+    },
+    "Share" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teilen"
+          }
+        }
+      }
+    },
+    "something went wrong" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es ist ein Fehler aufgetreten"
+          }
+        }
+      }
+    },
+    "Stats" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiken"
+          }
+        }
+      }
+    },
+    "Unlike Pokemon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokemon gefällt mir nicht mehr"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
